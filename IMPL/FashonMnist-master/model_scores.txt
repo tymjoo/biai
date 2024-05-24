@@ -1,0 +1,196 @@
+{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60))": {
+        "train_score": 0.9813333333333333,
+        "test_score": 0.8824,
+        "train_time": 419.00302624702454
+    },
+    "KNeighborsClassifier(n_neighbors=3)": {
+        "train_score": 0.9193833333333333,
+        "test_score": 0.8584,
+        "train_time": 40.24733805656433
+    },
+    "DecisionTreeClassifier(max_depth=80)": {
+        "train_score": 1.0,
+        "test_score": 0.7979,
+        "train_time": 36.20009136199951
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(80,))": {
+        "train_score": 0.9681333333333333,
+        "test_score": 0.886,
+        "train_time": 316.3913562297821
+    },
+    "KNeighborsClassifier()": {
+        "train_score": 0.8993333333333333,
+        "test_score": 0.8592,
+        "train_time": 36.7211275100708
+    },
+    "DecisionTreeClassifier()": {
+        "train_score": 1.0,
+        "test_score": 0.7958,
+        "train_time": 35.07290816307068
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(80, 60, 60, 60, 80))": {
+        "train_score": 0.9719666666666666,
+        "test_score": 0.8909,
+        "train_time": 322.88012647628784
+    },
+    "KNeighborsClassifier(n_neighbors=23)": {
+        "train_score": 0.8578666666666667,
+        "test_score": 0.8438,
+        "train_time": 37.430967569351196
+    },
+    "DecisionTreeClassifier(max_depth=35)": {
+        "train_score": 0.9988666666666667,
+        "test_score": 0.7991,
+        "train_time": 32.82619261741638
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(80, 60, 60, 60, 80), solver='sgd')": {
+        "train_score": 0.959,
+        "test_score": 0.884,
+        "train_time": 375.32812571525574
+    },
+    "KNeighborsClassifier(n_neighbors=15)": {
+        "train_score": 0.8671833333333333,
+        "test_score": 0.8516,
+        "train_time": 36.773380517959595
+    },
+    "DecisionTreeClassifier(max_depth=28)": {
+        "train_score": 0.99705,
+        "test_score": 0.8001,
+        "train_time": 30.24880623817444
+    }
+}{
+    "MLPClassifier(alpha=0.1, hidden_layer_sizes=(80, 60, 60, 60, 80))": {
+        "train_score": 0.9560666666666666,
+        "test_score": 0.8958,
+        "train_time": 354.42098021507263
+    },
+    "KNeighborsClassifier(n_neighbors=15)": {
+        "train_score": 0.8671833333333333,
+        "test_score": 0.8516,
+        "train_time": 40.097665786743164
+    },
+    "DecisionTreeClassifier(criterion='entropy', max_depth=28)": {
+        "train_score": 1.0,
+        "test_score": 0.8123,
+        "train_time": 29.004814386367798
+    }
+}{
+    "MLPClassifier(alpha=0.001, hidden_layer_sizes=(80, 60, 60, 60, 80))": {
+        "train_score": 0.9770333333333333,
+        "test_score": 0.886,
+        "train_time": 472.73176431655884
+    },
+    "KNeighborsClassifier(n_neighbors=15)": {
+        "train_score": 0.8671833333333333,
+        "test_score": 0.8516,
+        "train_time": 39.75769305229187
+    },
+    "DecisionTreeClassifier(criterion='entropy', max_depth=28)": {
+        "train_score": 1.0,
+        "test_score": 0.8102,
+        "train_time": 29.489845752716064
+    }
+}{
+    "MLPClassifier(alpha=0.001, hidden_layer_sizes=(80, 60, 60, 60, 80))": {
+        "train_score": 0.9800833333333333,
+        "test_score": 0.8898,
+        "train_time": 356.1892192363739
+    },
+    "KNeighborsClassifier()": {
+        "train_score": 0.8993333333333333,
+        "test_score": 0.8592,
+        "train_time": 41.169535875320435
+    },
+    "DecisionTreeClassifier(criterion='entropy', max_depth=10)": {
+        "train_score": 0.8559833333333333,
+        "test_score": 0.8097,
+        "train_time": 17.752761125564575
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60), max_iter=5)": {
+        "train_score": 0.8845,
+        "test_score": 0.8725,
+        "train_time": 9.217031478881836
+    },
+    "KNeighborsClassifier(n_neighbors=3)": {
+        "train_score": 0.9193833333333333,
+        "test_score": 0.8584,
+        "train_time": 40.15182971954346
+    },
+    "DecisionTreeClassifier(max_depth=80)": {
+        "train_score": 1.0,
+        "test_score": 0.7954,
+        "train_time": 35.55087876319885
+    },
+    "cnn_1-2": {
+        "train_score": 0.9413999915122986,
+        "test_score": 0.9185000061988831,
+        "train_time": 37.76792764663696
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60), max_iter=2)": {
+        "train_score": 0.8623166666666666,
+        "test_score": 0.8591,
+        "train_time": 3.846675395965576
+    },
+    "cnn_1c-2d_e5": {
+        "train_score": 0.9454666376113892,
+        "test_score": 0.9187999963760376,
+        "train_time": 35.12720584869385
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60), max_iter=2)": {
+        "train_score": 0.8659833333333333,
+        "test_score": 0.8642,
+        "train_time": 3.845320224761963
+    },
+    "cnn_1c-2d_e2": {
+        "train_score": 0.9086499810218811,
+        "test_score": 0.8985999822616577,
+        "train_time": 15.977484941482544
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60), max_iter=10)": {
+        "train_score": 0.8953333333333333,
+        "test_score": 0.8777,
+        "train_time": 17.873986959457397
+    },
+    "cnn_1c-2d_e8": {
+        "train_score": 0.9657333493232727,
+        "test_score": 0.9193999767303467,
+        "train_time": 54.96539926528931
+    }
+}{
+    "MLPClassifier(alpha=0.01, hidden_layer_sizes=(60, 80, 60), max_iter=10)": {
+        "train_score": 0.9006833333333333,
+        "test_score": 0.8827,
+        "train_time": 18.255310535430908
+    },
+    "cnn_2c-2d_e8": {
+        "train_score": 0.9410666823387146,
+        "test_score": 0.911899983882904,
+        "train_time": 48.74108004570007
+    }
+}{
+    "cnn_3c-2d_e8": {
+        "train_score": 0.8935166597366333,
+        "test_score": 0.880299985408783,
+        "train_time": 52.725521087646484
+    }
+}{
+    "cnn_1c-3d_e8": {
+        "train_score": 0.9625333547592163,
+        "test_score": 0.920199990272522,
+        "train_time": 56.03071665763855
+    }
+}{
+    "cnn_1c-1d_e8": {
+        "train_score": 0.9364333152770996,
+        "test_score": 0.9106000065803528,
+        "train_time": 30.752292156219482
+    }
+}
